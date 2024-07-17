@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4yc1B65wejU=",
+  "dgSpecHash": "Z2HsuQ+j88k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\smbai\\Revature Training Stuff\\Week2Day2 Practice\\CompanyApp\\CompanyApp.csproj",
+  "projectFilePath": "C:\\Users\\smbai\\Revature Training Stuff\\Week2\\Week2Day2 Practice\\CompanyApp\\CompanyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smbai\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\smbai\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
